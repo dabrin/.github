@@ -1,5 +1,7 @@
-**Geko** is a Web3 app designed to fix one of Latin America's invisible crises:  
-people have access to banking, but not to **healthy financial habits**.
+<img width="2644" height="486" alt="image" src="https://github.com/user-attachments/assets/10a682ad-3ee8-4623-9aca-547044456124" />
+<hr>
+
+**Geko** is a Web3 app designed to fix one of Latin America's invisible crises: people have access to banking, but not to **healthy financial habits**.
 
 We combine **education, automation, and blockchain transparency** to help users **save, invest, and grow** . All through an experience so simple that Web3 becomes almost invisible.
 
@@ -32,7 +34,7 @@ Built on **Stellar**, Geko delivers near-zero-fee transactions, fast settlements
 
 ## 🛠️ Tech Stack
 
-- We used the Stellar Scaffold by The Aha Company.
+- We used the Stellar Scaffold by The Aha Company, utilizing React + Vite.
 
 ---
 
@@ -56,8 +58,8 @@ Built by a team of developers passionate about redefining financial culture in L
 
 ## 🦎 Join Us
 
-- 🌐 Website: [gekofi.com](gekofi.com)  
-- 💬 Twitter / X: [@GekoAppFinance](x.com/GekoAppFinance)  
+- 🌐 Website: [gekofi.com](https://gekofi.com)  
+- 💬 Twitter / X: [@GekoAppFinance](https://x.com/GekoAppFinance)  
 - ✨ Demo: [Watch the 3-minute demo →](#)
 
 > **Geko — Build habits. Own your future.**
